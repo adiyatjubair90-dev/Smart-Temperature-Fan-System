@@ -5,6 +5,11 @@ An Arduino-based intelligent temperature control system that automatically adjus
 ## VIDEO DEMO:
 https://github.com/user-attachments/assets/b6224273-e975-4782-9d4b-5068137daa13
 
+Access the published TinkerCAD link here:
+
+🔗 [View Tinkercad Simulation](https://www.tinkercad.com/things/d3iaNHTzn1Q-smart-temperature-sensor-fan?sharecode=W8ZTKoaSMM2RrGob_ETv6v0WrO9oyRORa1Lc3mMnZXw)
+
+
 ## Features
 
 ### 🌡️ Temperature Monitoring
