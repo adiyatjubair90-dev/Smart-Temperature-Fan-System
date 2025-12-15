@@ -1,6 +1,9 @@
 # Smart Temperature Fan System
 
-An Arduino-based intelligent temperature control system that automatically adjusts fan speed and displays visual feedback based on ambient temperature readings. The system uses a TMP36 temperature sensor, LCD display, RGB LED indicator, and PWM-controlled fan to create an automated climate control solution.
+An Arduino-based intelligent temperature control system that automatically adjusts fan speed and displays visual feedback based on ambient temperature readings. 
+
+## VIDEO DEMO:
+https://github.com/user-attachments/assets/b6224273-e975-4782-9d4b-5068137daa13
 
 ## Features
 
